@@ -15,7 +15,6 @@ Everything runs in-memory. No database or file storage.
 ---
 
 ### How to run
-g
 1. Make sure .NET SDK 8 or newer is installed (tested with .NET 9)
    To check:
    ```bash
