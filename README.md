@@ -1,1 +1,0 @@
-# Rishit_Infonetica_Task
